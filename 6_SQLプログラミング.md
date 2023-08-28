@@ -58,7 +58,7 @@
 
 ?> SQLSTATEは5バイトで、2文字のクラス・コード値とそれに続く3文字のサブクラス・コード値で構成されています。本来は「データなし」(EOF)を示す「02」と、それ以外のエラーを分け、必要な処理を行なうのが良いでしょう。
 
-?> SQLSTATE クラス・コードのリストは「SQLSTATE クラス・コードのリスト」(https://www.ibm.com/support/knowledgecenter/ja/ssw_ibm_i_74/rzala/rzalaclass.htm)を参照。
+?> SQLSTATE クラス・コードのリストは「SQLSTATE クラス・コードのリスト」(https://www.ibm.com/support/knowledgecenter/ja/ssw_ibm_i_74/rzala/rzalaclass.htm )を参照。
 
 
 * 26行目：データが正常に読み取られたらDSPLY命令で内容を画面に表示します。
