@@ -1,5 +1,9 @@
 <!-- docs/_sidebar.md -->
 
+* <b>IBM i でSQL<br>ハンズオンの手引き</b>
+
+---
+
 * [はじめに](/)
 * [1 事前準備](/1_事前準備.md)
 * [2 IBM_i_とSQL](/2_IBM_i_とSQL.md)
