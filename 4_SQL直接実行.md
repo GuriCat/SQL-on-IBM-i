@@ -181,7 +181,7 @@ ftp> quit
 
 「db2」コマンドはLUWでも使われているSQLへのコマンド・ライン・インターフェースです。
 
-?> db2コマンドの解説はIBM Knowledge Center (https://www.ibm.com/support/knowledgecenter/ja/ssw_ibm_i_74/rzahz/rzahzdb2utility.htm)などを参照。
+?> db2コマンドの解説はIBM Knowledge Center (https://www.ibm.com/support/knowledgecenter/ja/ssw_ibm_i_74/rzahz/rzahzdb2utility.htm )などを参照。
 
 ホスト・コード・ページに英小文字が使える「939」または「1399」を指定した5250エミュレーターからサインオンし、ジョブまたはユーザープロフィールのCCSIDにホスト・コード・ページと同じ値(939の場合は5035)に設定し、Qshellから「db2 “SQL文”」で実行できます。
 
