@@ -389,7 +389,11 @@ No      登録番号        姓名    姓名（読み）
 C:\>cd %userprofile%\desktop
 
 C:\Users\(Windowsのユーザー名)\Desktop>javac -cp .;.\jt400.jar -encoding utf8 JDBC.java
-□W10-2. Javaプログラムを実行し、指定した文字(漢字)を含むデータが表示されることを確認。
+```
+
+**□ W10-2.** Javaプログラムを実行し、指定した文字(漢字)を含むデータが表示されることを確認。
+
+```
 C:\Users\(Windowsのユーザー名)>java -cp .;.\jt400.jar JDBC (IBM iのホスト名またはIPアドレス) (ユーザー名) (パスワード) 花
 No      登録番号        姓名    姓名（読み）
 1       5       花田　蓮大      ﾊﾅﾀﾞ ﾚｵ
